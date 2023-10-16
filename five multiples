@@ -1,0 +1,5 @@
+n=int(input("Enter the value of a"))
+i=5
+while i<=n:
+    print(i)
+    i+=5
